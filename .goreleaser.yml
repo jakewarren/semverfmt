@@ -1,5 +1,6 @@
 builds:
   -
+    main: ./cmd/semverfmt/
     env:
       - CGO_ENABLED=0
     ldflags:
