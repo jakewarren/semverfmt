@@ -15,7 +15,7 @@ Download the latest release from [https://github.com/jakewarren/semverfmt/releas
 ### Option 2: From source
 
 ```
-go get github.com/jakewarren/semverfmt
+go get github.com/jakewarren/semverfmt/...
 ```
 
 ## Usage
